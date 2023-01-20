@@ -1,5 +1,6 @@
 body {
     background-color: rgb(134, 105, 208);
+    margin-left: 20px;
 }
 
 .title {
@@ -30,4 +31,9 @@ body {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     border-color: rgb(255, 255, 255);
+}
+
+.img-size {
+    width: 50px;
+    height: 50px;
 }
